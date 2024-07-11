@@ -73,7 +73,7 @@ CREATE TABLE IF NOT EXISTS 'activities' (
 
 ## Modelagem de entidade e relacionamento - MER
 
-![MER](/mer.png "Modelagem de entidade e relacionamento")
+![MER](/./.github/mer.png")
 
 ## Documentação da API
 - https://documenter.getpostman.com/view/24656609/2sA3e5cSuM
@@ -123,8 +123,6 @@ pip install -r requirements.txt
 ```
 
 
-
-```
 
 <div id='contatos' align="center">
   <p align="center">Made with 💜 by Humberto Luciano</p>
