@@ -73,7 +73,7 @@ CREATE TABLE IF NOT EXISTS 'activities' (
 
 ## Modelagem de entidade e relacionamento - MER
 
-![MER](/./.github/mer.png")
+![alt imagem de capa](./.github/mer.png)
 
 ## Documentação da API
 - https://documenter.getpostman.com/view/24656609/2sA3e5cSuM
@@ -84,7 +84,7 @@ CREATE TABLE IF NOT EXISTS 'activities' (
 1. Clone o repositório usando o comando:
 
 ```bash
-git clone https://github.com/Humberto08/upload-ai-nlw.git
+https://github.com/Humberto08/nlw-journey-python-trip-planner.git
 ```
 
 2. Navegue para o diretório raiz do projeto e instale as dependências backend:
